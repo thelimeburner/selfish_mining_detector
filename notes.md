@@ -24,9 +24,13 @@ http://bitcoin.stackexchange.com/questions/25720/is-there-database-of-orphaned-b
 406948(1460469085,False,2016-04-12 09:51:25) - 406948(1460469102,True,2016-04-12 09:51:42)==> 17.0
 
 406944 == > https://blockchain.info/address/1Mpce11eUTuP9mxyDixdFbJzPrdNEJkgB4
+
 406945 == > https://blockchain.info/address/1KM7w12SkjzJ1FYV2g1UCMzHjv3pkMgkEb
+
 406946 ==> https://blockchain.info/address/1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY
+
 406947 ==> https://blockchain.info/address/152f1muMCNa7goXYhYAQC61hxEgGacmncB
+
 406948 ==> https://blockchain.info/address/152f1muMCNa7goXYhYAQC61hxEgGacmncB
 
 
